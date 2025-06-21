@@ -27,5 +27,5 @@ A Node.js-based web scraping and job tracking system that monitors job postings 
 
 ## 👨‍💻 Author
 
-Auro Saswat Raj
+Auro Saswat Raj <br>
 Built for automated job tracking and personal productivity.
