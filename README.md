@@ -1,4 +1,4 @@
-# 🧠 Job Portal Scraper
+# 🧠 dreamrolefinder
 
 A Node.js-based web scraping and job tracking system that monitors job postings from company career pages using **Playwright**, stores them in **MongoDB**, and sends notifications via **Nodemailer**. It supports both manual and scheduled scraping using **Express** and **Node-cron**.
 
